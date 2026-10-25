@@ -1,8 +1,18 @@
-# The Scam Exposed - Open Source Verification Hub
+# The Scam Exposed
 
-This organization houses the code infrastructure, data methodologies, and validation parameters for [The Scam Exposed](https://thescamexposed.com).
+This organization hosts code and data methodology for [The Scam Exposed](https://thescamexposed.com), a free scam-awareness website that explains phone, text and online scams for readers in the United States.
 
-### Project Core Principles:
-- **No Paywalls / No Ads:** Run completely out-of-pocket as a volunteer public safety project.
-- **No Data Monetization:** We never collect, track, or sell user identity data or report telemetry.
-- **Radical Geographic Transparency:** Proudly operated independently from India to combat cross-border telecom and text fraud funnels targeting U.S. consumers.
+### Who runs it
+The Scam Exposed is founded and edited by [Nitesh Kumar Gupta](https://thescamexposed.com/author/nitesh-kumar-gupta). It is run as a sole proprietorship from Bareilly, Uttar Pradesh, India, and is registered as a micro enterprise on the Government of India MSME Udyam portal (Udyam Registration No. UDYAM-UP-48-0000250).
+
+### Principles
+- **Free to use:** no paywalls, no sign-up, no advertising and no affiliate links.
+- **No data selling:** we do not sell user data. See our [privacy policy](https://thescamexposed.com/privacy).
+- **Public sources:** guides are based on public FTC, FBI IC3 and Department of Justice data, linked so readers can check every claim.
+- **Independent:** not affiliated with any government agency, bank, telecom provider or company we write about.
+
+### Learn more
+- [About](https://thescamexposed.com/about)
+- [Methodology](https://thescamexposed.com/methodology)
+- [Editorial policy](https://thescamexposed.com/editorial-policy)
+- [Contact](https://thescamexposed.com/contact)
